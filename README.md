@@ -1,8 +1,6 @@
 # Python\_Study
 
-한국항공대학교 알고리즘학회 KOALA 🐨 에서 진행하는 3기 파이썬 스터디입니다. 
-
-
+한국항공대학교 알고리즘학회 KOALA 🐨 에서 진행하는 3기 파이썬 스터디입니다.
 
 깃북 링크: [https://70825.gitbook.io/python-study/](https://70825.gitbook.io/python-study/)
 
